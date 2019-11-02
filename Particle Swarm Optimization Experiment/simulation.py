@@ -33,19 +33,21 @@ def run_experiment(
 		for i in range(10):
 			err_best, pos_best = PSO.run(
 				function,
-				(500, 500),
+				(-5.12, 5.12),
 				pso_variant,
 				num_particles,
-				num_inter
+				num_inter,
+				topology,
+				param_pair
 			)
 
 			if err_best < err_best_all:
 				err_best_all = err_best
 				pos_best_all = pos_best
 
-		print(f'Best Position: {err_best_all}')
-		print(f'Best error: {pos_best_all}')
-		print("-------------END EXPERIMENT--------------\n")
+		print(f'Best Position: {pos_best_all}')
+		print(f'Best error: {err_best_all}')
+		print("-------------END EXPERIMENT--------------\n\n")
 
 		return err_best_all, pos_best_all
 
