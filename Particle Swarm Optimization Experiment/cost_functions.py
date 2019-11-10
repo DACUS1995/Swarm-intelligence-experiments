@@ -25,5 +25,5 @@ def rosenbrock_fn(x):
 	total = 0
 
 	for i in range(len(x) - 1):
-		total += ( 100 * ((x[i] - x[i]**2)**2) + (x[i] - 1)**2 )
+		total += ( 100 * ((x[i + 1] - x[i]**2)**2) + (x[i] - 1)**2 )
 	return total

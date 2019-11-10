@@ -18,6 +18,7 @@ class Particle:
 			else:
 				self.position.append(random.uniform(-5, 5))
 
+
 	def evaluate(self, cost_fn):
 		self.err = cost_fn(self.position)
 
@@ -26,10 +27,25 @@ class Particle:
 			self.pos_best = self.position.copy()
 			self.err_best = self.err
 
-	def update_velocity(self, pos_best_g):
+	pso_variants = [
+		"vanilla",
+		"inertia_weight",
+		"constriction_factor"
+	]
+
+	def update_velocity(self, pos_best_g, pso_variant):
 		w = 1       # constant inertia weight (how much to weigh the previous velocity)
 		c1 = self.param_pair[0]        # cognative constant
 		c2 = self.param_pair[1]        # social constant
+		chi = 1
+	
+		if pso_variant == "vanilla":
+			pass
+		elif pso_variant == "inertia_weight":
+			w = 0.7
+		elif pso_variant == "constriction_factor":
+			chi = 0.729
+
 		
 		for i in range(0, self.num_dimensions):
 			r1 = random.random()
@@ -37,7 +53,8 @@ class Particle:
 			
 			vel_cognitive = c1 * r1 * (self.pos_best[i] - self.position[i])
 			vel_social = c2 * r2 * (pos_best_g[i] - self.position[i])
-			self.velocity[i] = w * self.velocity[i] + vel_cognitive + vel_social
+			self.velocity[i] = chi * (w * self.velocity[i] + vel_cognitive + vel_social)
+
 
 	# update the particle position based off new velocity updates
 	def update_position(self, bounds):

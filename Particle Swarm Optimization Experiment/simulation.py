@@ -44,6 +44,9 @@ def run_experiment(
 			if err_best < err_best_all:
 				err_best_all = err_best
 				pos_best_all = pos_best
+			
+		err_best_all = format(err_best_all, '.10f')
+		pos_best_all = [format(x, '.10f') for x in pos_best_all]
 
 		print(f'Best Position: {pos_best_all}')
 		print(f'Best error: {err_best_all}')
@@ -54,26 +57,27 @@ def run_experiment(
 
 def main():
 	param_pairs = [
-		(1, 1),
-		(1, 1),
-		(1, 1)
+		(1, 0.5),
+		(0.5, 1),
+		(2.05, 2.05)
 	]
 
 	pso_variants = [
 		"vanilla",
 		"inertia_weight",
-		"constriction-factor"
+		"constriction_factor"
 	]
 
 	topologies = [
 		"fully_connected",
 		"ring",
+		"four_n"
 	]
 
 	functions = [
-		"spherical",
-		"rastrigin",
-		"griewank",
+		# "spherical",
+		# "rastrigin",
+		# "griewank",
 		"rosenbrock"
 	]
 
