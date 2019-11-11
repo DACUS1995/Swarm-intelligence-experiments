@@ -1,0 +1,1186 @@
+------------START EXPERIMENT-------------
+Function used: spherical function
+PSO variant: vanilla
+Topology: fully_connected
+Parameter used: (1, 0.5)
+
+Best Position: ['-0.0024274093', '-0.0006767798']
+Best error: 0.0000063503
+-------------END EXPERIMENT--------------
+
+
+------------START EXPERIMENT-------------
+Function used: spherical function
+PSO variant: vanilla
+Topology: fully_connected
+Parameter used: (0.5, 1)
+
+Best Position: ['0.0000406552', '-0.0011593646']
+Best error: 0.0000013458
+-------------END EXPERIMENT--------------
+
+
+------------START EXPERIMENT-------------
+Function used: spherical function
+PSO variant: vanilla
+Topology: fully_connected
+Parameter used: (2.05, 2.05)
+
+Best Position: ['0.0263740811', '0.0049795460']
+Best error: 0.0007203880
+-------------END EXPERIMENT--------------
+
+
+------------START EXPERIMENT-------------
+Function used: spherical function
+PSO variant: vanilla
+Topology: ring
+Parameter used: (1, 0.5)
+
+Best Position: ['-0.0707618704', '-0.7119567533']
+Best error: 0.0001904592
+-------------END EXPERIMENT--------------
+
+
+------------START EXPERIMENT-------------
+Function used: spherical function
+PSO variant: vanilla
+Topology: ring
+Parameter used: (0.5, 1)
+
+Best Position: ['-0.0045341492', '0.4792248538']
+Best error: 0.0000767890
+-------------END EXPERIMENT--------------
+
+
+------------START EXPERIMENT-------------
+Function used: spherical function
+PSO variant: vanilla
+Topology: ring
+Parameter used: (2.05, 2.05)
+
+Best Position: ['-1.1210185376', '-0.1654265809']
+Best error: 0.0000569904
+-------------END EXPERIMENT--------------
+
+
+------------START EXPERIMENT-------------
+Function used: spherical function
+PSO variant: vanilla
+Topology: four_n
+Parameter used: (1, 0.5)
+
+Best Position: ['0.0010680732', '0.0220748834']
+Best error: 0.0000021071
+-------------END EXPERIMENT--------------
+
+
+------------START EXPERIMENT-------------
+Function used: spherical function
+PSO variant: vanilla
+Topology: four_n
+Parameter used: (0.5, 1)
+
+Best Position: ['0.0029856589', '0.0098457690']
+Best error: 0.0000012339
+-------------END EXPERIMENT--------------
+
+
+------------START EXPERIMENT-------------
+Function used: spherical function
+PSO variant: vanilla
+Topology: four_n
+Parameter used: (2.05, 2.05)
+
+Best Position: ['0.0005803428', '0.0007244272']
+Best error: 0.0000001209
+-------------END EXPERIMENT--------------
+
+
+------------START EXPERIMENT-------------
+Function used: spherical function
+PSO variant: inertia_weight
+Topology: fully_connected
+Parameter used: (1, 0.5)
+
+Best Position: ['0.0000000000', '0.0000000000']
+Best error: 0.0000000000
+-------------END EXPERIMENT--------------
+
+
+------------START EXPERIMENT-------------
+Function used: spherical function
+PSO variant: inertia_weight
+Topology: fully_connected
+Parameter used: (0.5, 1)
+
+Best Position: ['0.0000000000', '0.0000000000']
+Best error: 0.0000000000
+-------------END EXPERIMENT--------------
+
+
+------------START EXPERIMENT-------------
+Function used: spherical function
+PSO variant: inertia_weight
+Topology: fully_connected
+Parameter used: (2.05, 2.05)
+
+Best Position: ['-0.0000000000', '0.0000000000']
+Best error: 0.0000000000
+-------------END EXPERIMENT--------------
+
+
+------------START EXPERIMENT-------------
+Function used: spherical function
+PSO variant: inertia_weight
+Topology: ring
+Parameter used: (1, 0.5)
+
+Best Position: ['-0.0000000000', '-0.0000000000']
+Best error: 0.0000000000
+-------------END EXPERIMENT--------------
+
+
+------------START EXPERIMENT-------------
+Function used: spherical function
+PSO variant: inertia_weight
+Topology: ring
+Parameter used: (0.5, 1)
+
+Best Position: ['-0.0000000000', '0.0000000000']
+Best error: 0.0000000000
+-------------END EXPERIMENT--------------
+
+
+------------START EXPERIMENT-------------
+Function used: spherical function
+PSO variant: inertia_weight
+Topology: ring
+Parameter used: (2.05, 2.05)
+
+Best Position: ['0.0000000001', '0.0000000016']
+Best error: 0.0000000000
+-------------END EXPERIMENT--------------
+
+
+------------START EXPERIMENT-------------
+Function used: spherical function
+PSO variant: inertia_weight
+Topology: four_n
+Parameter used: (1, 0.5)
+
+Best Position: ['0.0000000009', '-0.0012788528']
+Best error: 0.0000016355
+-------------END EXPERIMENT--------------
+
+
+------------START EXPERIMENT-------------
+Function used: spherical function
+PSO variant: inertia_weight
+Topology: four_n
+Parameter used: (0.5, 1)
+
+Best Position: ['0.0025129436', '-0.0006008882']
+Best error: 0.0000066760
+-------------END EXPERIMENT--------------
+
+
+------------START EXPERIMENT-------------
+Function used: spherical function
+PSO variant: inertia_weight
+Topology: four_n
+Parameter used: (2.05, 2.05)
+
+Best Position: ['0.0328358251', '-0.0148570085']
+Best error: 0.0012989221
+-------------END EXPERIMENT--------------
+
+
+------------START EXPERIMENT-------------
+Function used: spherical function
+PSO variant: constriction_factor
+Topology: fully_connected
+Parameter used: (1, 0.5)
+
+Best Position: ['-0.0000000000', '-0.0000000000']
+Best error: 0.0000000000
+-------------END EXPERIMENT--------------
+
+
+------------START EXPERIMENT-------------
+Function used: spherical function
+PSO variant: constriction_factor
+Topology: fully_connected
+Parameter used: (0.5, 1)
+
+Best Position: ['-0.0000000000', '-0.0000000000']
+Best error: 0.0000000000
+-------------END EXPERIMENT--------------
+
+
+------------START EXPERIMENT-------------
+Function used: spherical function
+PSO variant: constriction_factor
+Topology: fully_connected
+Parameter used: (2.05, 2.05)
+
+Best Position: ['0.0000000000', '-0.0000000000']
+Best error: 0.0000000000
+-------------END EXPERIMENT--------------
+
+
+------------START EXPERIMENT-------------
+Function used: spherical function
+PSO variant: constriction_factor
+Topology: ring
+Parameter used: (1, 0.5)
+
+Best Position: ['-0.0000000000', '-0.0000000000']
+Best error: 0.0000000000
+-------------END EXPERIMENT--------------
+
+
+------------START EXPERIMENT-------------
+Function used: spherical function
+PSO variant: constriction_factor
+Topology: ring
+Parameter used: (0.5, 1)
+
+Best Position: ['-0.0000000000', '0.0000000000']
+Best error: 0.0000000000
+-------------END EXPERIMENT--------------
+
+
+------------START EXPERIMENT-------------
+Function used: spherical function
+PSO variant: constriction_factor
+Topology: ring
+Parameter used: (2.05, 2.05)
+
+Best Position: ['0.0000000000', '-0.0000000000']
+Best error: 0.0000000000
+-------------END EXPERIMENT--------------
+
+
+------------START EXPERIMENT-------------
+Function used: spherical function
+PSO variant: constriction_factor
+Topology: four_n
+Parameter used: (1, 0.5)
+
+Best Position: ['-0.0057758984', '0.0017804690']
+Best error: 0.0000365311
+-------------END EXPERIMENT--------------
+
+
+------------START EXPERIMENT-------------
+Function used: spherical function
+PSO variant: constriction_factor
+Topology: four_n
+Parameter used: (0.5, 1)
+
+Best Position: ['-0.0033861186', '-0.0183536113']
+Best error: 0.0003483208
+-------------END EXPERIMENT--------------
+
+
+------------START EXPERIMENT-------------
+Function used: spherical function
+PSO variant: constriction_factor
+Topology: four_n
+Parameter used: (2.05, 2.05)
+
+Best Position: ['-0.0315339431', '0.0316453746']
+Best error: 0.0019958193
+-------------END EXPERIMENT--------------
+
+
+------------START EXPERIMENT-------------
+Function used: rastrigin function
+PSO variant: vanilla
+Topology: fully_connected
+Parameter used: (1, 0.5)
+
+Best Position: ['-0.0009767854', '0.0004745438']
+Best error: 0.0002339635
+-------------END EXPERIMENT--------------
+
+
+------------START EXPERIMENT-------------
+Function used: rastrigin function
+PSO variant: vanilla
+Topology: fully_connected
+Parameter used: (0.5, 1)
+
+Best Position: ['-0.0046809633', '0.0034651529']
+Best error: 0.0067287968
+-------------END EXPERIMENT--------------
+
+
+------------START EXPERIMENT-------------
+Function used: rastrigin function
+PSO variant: vanilla
+Topology: fully_connected
+Parameter used: (2.05, 2.05)
+
+Best Position: ['-0.0077815287', '-0.0019379234']
+Best error: 0.0127557561
+-------------END EXPERIMENT--------------
+
+
+------------START EXPERIMENT-------------
+Function used: rastrigin function
+PSO variant: vanilla
+Topology: ring
+Parameter used: (1, 0.5)
+
+Best Position: ['-2.5848473997', '-0.6614663488']
+Best error: 0.0104048921
+-------------END EXPERIMENT--------------
+
+
+------------START EXPERIMENT-------------
+Function used: rastrigin function
+PSO variant: vanilla
+Topology: ring
+Parameter used: (0.5, 1)
+
+Best Position: ['1.4538204739', '1.4171710901']
+Best error: 0.0037566530
+-------------END EXPERIMENT--------------
+
+
+------------START EXPERIMENT-------------
+Function used: rastrigin function
+PSO variant: vanilla
+Topology: ring
+Parameter used: (2.05, 2.05)
+
+Best Position: ['0.5733559778', '-0.0401813138']
+Best error: 0.1466657938
+-------------END EXPERIMENT--------------
+
+
+------------START EXPERIMENT-------------
+Function used: rastrigin function
+PSO variant: vanilla
+Topology: four_n
+Parameter used: (1, 0.5)
+
+Best Position: ['-2.6040547479', '0.0223474306']
+Best error: 0.0144207523
+-------------END EXPERIMENT--------------
+
+
+------------START EXPERIMENT-------------
+Function used: rastrigin function
+PSO variant: vanilla
+Topology: four_n
+Parameter used: (0.5, 1)
+
+Best Position: ['0.1450065247', '-0.0024671662']
+Best error: 0.0008717850
+-------------END EXPERIMENT--------------
+
+
+------------START EXPERIMENT-------------
+Function used: rastrigin function
+PSO variant: vanilla
+Topology: four_n
+Parameter used: (2.05, 2.05)
+
+Best Position: ['-1.3413154327', '-0.7281709565']
+Best error: 0.0012374920
+-------------END EXPERIMENT--------------
+
+
+------------START EXPERIMENT-------------
+Function used: rastrigin function
+PSO variant: inertia_weight
+Topology: fully_connected
+Parameter used: (1, 0.5)
+
+Best Position: ['-0.0000000001', '0.0000000005']
+Best error: 0.0000000000
+-------------END EXPERIMENT--------------
+
+
+------------START EXPERIMENT-------------
+Function used: rastrigin function
+PSO variant: inertia_weight
+Topology: fully_connected
+Parameter used: (0.5, 1)
+
+Best Position: ['-0.0000000014', '0.0000000004']
+Best error: 0.0000000000
+-------------END EXPERIMENT--------------
+
+
+------------START EXPERIMENT-------------
+Function used: rastrigin function
+PSO variant: inertia_weight
+Topology: fully_connected
+Parameter used: (2.05, 2.05)
+
+Best Position: ['-0.0000000012', '0.0000000013']
+Best error: 0.0000000000
+-------------END EXPERIMENT--------------
+
+
+------------START EXPERIMENT-------------
+Function used: rastrigin function
+PSO variant: inertia_weight
+Topology: ring
+Parameter used: (1, 0.5)
+
+Best Position: ['-0.0000000027', '-0.0000000008']
+Best error: 0.0000000000
+-------------END EXPERIMENT--------------
+
+
+------------START EXPERIMENT-------------
+Function used: rastrigin function
+PSO variant: inertia_weight
+Topology: ring
+Parameter used: (0.5, 1)
+
+Best Position: ['-0.0000000454', '0.0000000243']
+Best error: 0.0000000000
+-------------END EXPERIMENT--------------
+
+
+------------START EXPERIMENT-------------
+Function used: rastrigin function
+PSO variant: inertia_weight
+Topology: ring
+Parameter used: (2.05, 2.05)
+
+Best Position: ['-0.0000000002', '0.0000000843']
+Best error: 0.0000000000
+-------------END EXPERIMENT--------------
+
+
+------------START EXPERIMENT-------------
+Function used: rastrigin function
+PSO variant: inertia_weight
+Topology: four_n
+Parameter used: (1, 0.5)
+
+Best Position: ['-0.0000000079', '-0.0012231313']
+Best error: 0.0002968031
+-------------END EXPERIMENT--------------
+
+
+------------START EXPERIMENT-------------
+Function used: rastrigin function
+PSO variant: inertia_weight
+Topology: four_n
+Parameter used: (0.5, 1)
+
+Best Position: ['0.0025378708', '-0.9944358936']
+Best error: 0.9962910155
+-------------END EXPERIMENT--------------
+
+
+------------START EXPERIMENT-------------
+Function used: rastrigin function
+PSO variant: inertia_weight
+Topology: four_n
+Parameter used: (2.05, 2.05)
+
+Best Position: ['0.0344665809', '-0.0000000028']
+Best error: 0.2347639262
+-------------END EXPERIMENT--------------
+
+
+------------START EXPERIMENT-------------
+Function used: rastrigin function
+PSO variant: constriction_factor
+Topology: fully_connected
+Parameter used: (1, 0.5)
+
+Best Position: ['-0.0000000009', '-0.0000000007']
+Best error: 0.0000000000
+-------------END EXPERIMENT--------------
+
+
+------------START EXPERIMENT-------------
+Function used: rastrigin function
+PSO variant: constriction_factor
+Topology: fully_connected
+Parameter used: (0.5, 1)
+
+Best Position: ['-0.0000000010', '-0.0000000014']
+Best error: 0.0000000000
+-------------END EXPERIMENT--------------
+
+
+------------START EXPERIMENT-------------
+Function used: rastrigin function
+PSO variant: constriction_factor
+Topology: fully_connected
+Parameter used: (2.05, 2.05)
+
+Best Position: ['-0.0000000011', '-0.0000000002']
+Best error: 0.0000000000
+-------------END EXPERIMENT--------------
+
+
+------------START EXPERIMENT-------------
+Function used: rastrigin function
+PSO variant: constriction_factor
+Topology: ring
+Parameter used: (1, 0.5)
+
+Best Position: ['-0.0000000024', '-0.0000000003']
+Best error: 0.0000000000
+-------------END EXPERIMENT--------------
+
+
+------------START EXPERIMENT-------------
+Function used: rastrigin function
+PSO variant: constriction_factor
+Topology: ring
+Parameter used: (0.5, 1)
+
+Best Position: ['0.0000000007', '0.0000000015']
+Best error: 0.0000000000
+-------------END EXPERIMENT--------------
+
+
+------------START EXPERIMENT-------------
+Function used: rastrigin function
+PSO variant: constriction_factor
+Topology: ring
+Parameter used: (2.05, 2.05)
+
+Best Position: ['-0.0000000112', '0.0000000006']
+Best error: 0.0000000000
+-------------END EXPERIMENT--------------
+
+
+------------START EXPERIMENT-------------
+Function used: rastrigin function
+PSO variant: constriction_factor
+Topology: four_n
+Parameter used: (1, 0.5)
+
+Best Position: ['-0.0000072033', '-0.0268214367']
+Best error: 0.1423854319
+-------------END EXPERIMENT--------------
+
+
+------------START EXPERIMENT-------------
+Function used: rastrigin function
+PSO variant: constriction_factor
+Topology: four_n
+Parameter used: (0.5, 1)
+
+Best Position: ['0.0054623948', '-0.0044203999']
+Best error: 0.0097953174
+-------------END EXPERIMENT--------------
+
+
+------------START EXPERIMENT-------------
+Function used: rastrigin function
+PSO variant: constriction_factor
+Topology: four_n
+Parameter used: (2.05, 2.05)
+
+Best Position: ['0.0002363702', '0.0015797641']
+Best error: 0.0005061984
+-------------END EXPERIMENT--------------
+
+
+------------START EXPERIMENT-------------
+Function used: griewank function
+PSO variant: vanilla
+Topology: fully_connected
+Parameter used: (1, 0.5)
+
+Best Position: ['-0.0038263095', '-0.0029776787']
+Best error: 0.0000095428
+-------------END EXPERIMENT--------------
+
+
+------------START EXPERIMENT-------------
+Function used: griewank function
+PSO variant: vanilla
+Topology: fully_connected
+Parameter used: (0.5, 1)
+
+Best Position: ['0.0024125767', '-0.0199165962']
+Best error: 0.0001021767
+-------------END EXPERIMENT--------------
+
+
+------------START EXPERIMENT-------------
+Function used: griewank function
+PSO variant: vanilla
+Topology: fully_connected
+Parameter used: (2.05, 2.05)
+
+Best Position: ['0.0028899888', '-0.0197720622']
+Best error: 0.0001020074
+-------------END EXPERIMENT--------------
+
+
+------------START EXPERIMENT-------------
+Function used: griewank function
+PSO variant: vanilla
+Topology: ring
+Parameter used: (1, 0.5)
+
+Best Position: ['-0.4849809929', '2.8876100808']
+Best error: 0.0000150474
+-------------END EXPERIMENT--------------
+
+
+------------START EXPERIMENT-------------
+Function used: griewank function
+PSO variant: vanilla
+Topology: ring
+Parameter used: (0.5, 1)
+
+Best Position: ['5.1200000000', '4.9940896237']
+Best error: 0.0001040904
+-------------END EXPERIMENT--------------
+
+
+------------START EXPERIMENT-------------
+Function used: griewank function
+PSO variant: vanilla
+Topology: ring
+Parameter used: (2.05, 2.05)
+
+Best Position: ['0.4276161820', '-5.1200000000']
+Best error: 0.0000569752
+-------------END EXPERIMENT--------------
+
+
+------------START EXPERIMENT-------------
+Function used: griewank function
+PSO variant: vanilla
+Topology: four_n
+Parameter used: (1, 0.5)
+
+Best Position: ['-0.6905906315', '0.0004524408']
+Best error: 0.0000030468
+-------------END EXPERIMENT--------------
+
+
+------------START EXPERIMENT-------------
+Function used: griewank function
+PSO variant: vanilla
+Topology: four_n
+Parameter used: (0.5, 1)
+
+Best Position: ['-0.6780857496', '-0.1140060833']
+Best error: 0.0000015617
+-------------END EXPERIMENT--------------
+
+
+------------START EXPERIMENT-------------
+Function used: griewank function
+PSO variant: vanilla
+Topology: four_n
+Parameter used: (2.05, 2.05)
+
+Best Position: ['-0.0552087336', '-0.0269627753']
+Best error: 0.0000110439
+-------------END EXPERIMENT--------------
+
+
+------------START EXPERIMENT-------------
+Function used: griewank function
+PSO variant: inertia_weight
+Topology: fully_connected
+Parameter used: (1, 0.5)
+
+Best Position: ['0.0000000103', '-0.0000000126']
+Best error: 0.0000000000
+-------------END EXPERIMENT--------------
+
+
+------------START EXPERIMENT-------------
+Function used: griewank function
+PSO variant: inertia_weight
+Topology: fully_connected
+Parameter used: (0.5, 1)
+
+Best Position: ['-0.0000000093', '-0.0000000018']
+Best error: 0.0000000000
+-------------END EXPERIMENT--------------
+
+
+------------START EXPERIMENT-------------
+Function used: griewank function
+PSO variant: inertia_weight
+Topology: fully_connected
+Parameter used: (2.05, 2.05)
+
+Best Position: ['0.0000000083', '-0.0000000112']
+Best error: 0.0000000000
+-------------END EXPERIMENT--------------
+
+
+------------START EXPERIMENT-------------
+Function used: griewank function
+PSO variant: inertia_weight
+Topology: ring
+Parameter used: (1, 0.5)
+
+Best Position: ['0.0000000043', '0.0000000054']
+Best error: 0.0000000000
+-------------END EXPERIMENT--------------
+
+
+------------START EXPERIMENT-------------
+Function used: griewank function
+PSO variant: inertia_weight
+Topology: ring
+Parameter used: (0.5, 1)
+
+Best Position: ['0.0000000055', '0.0000000058']
+Best error: 0.0000000000
+-------------END EXPERIMENT--------------
+
+
+------------START EXPERIMENT-------------
+Function used: griewank function
+PSO variant: inertia_weight
+Topology: ring
+Parameter used: (2.05, 2.05)
+
+Best Position: ['0.0000030475', '0.0000001632']
+Best error: 0.0000000000
+-------------END EXPERIMENT--------------
+
+
+------------START EXPERIMENT-------------
+Function used: griewank function
+PSO variant: inertia_weight
+Topology: four_n
+Parameter used: (1, 0.5)
+
+Best Position: ['0.0043957228', '-0.0325605242']
+Best error: 0.0002749637
+-------------END EXPERIMENT--------------
+
+
+------------START EXPERIMENT-------------
+Function used: griewank function
+PSO variant: inertia_weight
+Topology: four_n
+Parameter used: (0.5, 1)
+
+Best Position: ['-0.0031589012', '-0.0287954890']
+Best error: 0.0002124860
+-------------END EXPERIMENT--------------
+
+
+------------START EXPERIMENT-------------
+Function used: griewank function
+PSO variant: inertia_weight
+Topology: four_n
+Parameter used: (2.05, 2.05)
+
+Best Position: ['-0.0014981519', '-0.0000000402']
+Best error: 0.0000011228
+-------------END EXPERIMENT--------------
+
+
+------------START EXPERIMENT-------------
+Function used: griewank function
+PSO variant: constriction_factor
+Topology: fully_connected
+Parameter used: (1, 0.5)
+
+Best Position: ['-0.0000000022', '-0.0000000092']
+Best error: 0.0000000000
+-------------END EXPERIMENT--------------
+
+
+------------START EXPERIMENT-------------
+Function used: griewank function
+PSO variant: constriction_factor
+Topology: fully_connected
+Parameter used: (0.5, 1)
+
+Best Position: ['-0.0000000085', '-0.0000000082']
+Best error: 0.0000000000
+-------------END EXPERIMENT--------------
+
+
+------------START EXPERIMENT-------------
+Function used: griewank function
+PSO variant: constriction_factor
+Topology: fully_connected
+Parameter used: (2.05, 2.05)
+
+Best Position: ['-0.0000000059', '0.0000000145']
+Best error: 0.0000000000
+-------------END EXPERIMENT--------------
+
+
+------------START EXPERIMENT-------------
+Function used: griewank function
+PSO variant: constriction_factor
+Topology: ring
+Parameter used: (1, 0.5)
+
+Best Position: ['0.0000000011', '0.0000000190']
+Best error: 0.0000000000
+-------------END EXPERIMENT--------------
+
+
+------------START EXPERIMENT-------------
+Function used: griewank function
+PSO variant: constriction_factor
+Topology: ring
+Parameter used: (0.5, 1)
+
+Best Position: ['-0.0000000077', '-0.0000000038']
+Best error: 0.0000000000
+-------------END EXPERIMENT--------------
+
+
+------------START EXPERIMENT-------------
+Function used: griewank function
+PSO variant: constriction_factor
+Topology: ring
+Parameter used: (2.05, 2.05)
+
+Best Position: ['0.0000000010', '-0.0000000311']
+Best error: 0.0000000000
+-------------END EXPERIMENT--------------
+
+
+------------START EXPERIMENT-------------
+Function used: griewank function
+PSO variant: constriction_factor
+Topology: four_n
+Parameter used: (1, 0.5)
+
+Best Position: ['-0.0120857980', '0.0395415538']
+Best error: 0.0004642894
+-------------END EXPERIMENT--------------
+
+
+------------START EXPERIMENT-------------
+Function used: griewank function
+PSO variant: constriction_factor
+Topology: four_n
+Parameter used: (0.5, 1)
+
+Best Position: ['-0.0002784008', '0.0161002048']
+Best error: 0.0000649070
+-------------END EXPERIMENT--------------
+
+
+------------START EXPERIMENT-------------
+Function used: griewank function
+PSO variant: constriction_factor
+Topology: four_n
+Parameter used: (2.05, 2.05)
+
+Best Position: ['0.0008361626', '0.0004086316']
+Best error: 0.0000003915
+-------------END EXPERIMENT--------------
+
+
+------------START EXPERIMENT-------------
+Function used: rosenbrock function
+PSO variant: vanilla
+Topology: fully_connected
+Parameter used: (1, 0.5)
+
+Best Position: ['0.9949126684', '0.9888107792']
+Best error: 0.0001341322
+-------------END EXPERIMENT--------------
+
+
+------------START EXPERIMENT-------------
+Function used: rosenbrock function
+PSO variant: vanilla
+Topology: fully_connected
+Parameter used: (0.5, 1)
+
+Best Position: ['0.9627659355', '0.9298958104']
+Best error: 0.0022729642
+-------------END EXPERIMENT--------------
+
+
+------------START EXPERIMENT-------------
+Function used: rosenbrock function
+PSO variant: vanilla
+Topology: fully_connected
+Parameter used: (2.05, 2.05)
+
+Best Position: ['1.0137416461', '1.0315727783']
+Best error: 0.0017103425
+-------------END EXPERIMENT--------------
+
+
+------------START EXPERIMENT-------------
+Function used: rosenbrock function
+PSO variant: vanilla
+Topology: ring
+Parameter used: (1, 0.5)
+
+Best Position: ['1.8883784617', '3.2578906128']
+Best error: 0.0000099057
+-------------END EXPERIMENT--------------
+
+
+------------START EXPERIMENT-------------
+Function used: rosenbrock function
+PSO variant: vanilla
+Topology: ring
+Parameter used: (0.5, 1)
+
+Best Position: ['5.1200000000', '-0.2982977997']
+Best error: 0.0054705450
+-------------END EXPERIMENT--------------
+
+
+------------START EXPERIMENT-------------
+Function used: rosenbrock function
+PSO variant: vanilla
+Topology: ring
+Parameter used: (2.05, 2.05)
+
+Best Position: ['-2.8096706988', '-3.1623900684']
+Best error: 0.0015545873
+-------------END EXPERIMENT--------------
+
+
+------------START EXPERIMENT-------------
+Function used: rosenbrock function
+PSO variant: vanilla
+Topology: four_n
+Parameter used: (1, 0.5)
+
+Best Position: ['1.3521139776', '1.0150995024']
+Best error: 0.0002841895
+-------------END EXPERIMENT--------------
+
+
+------------START EXPERIMENT-------------
+Function used: rosenbrock function
+PSO variant: vanilla
+Topology: four_n
+Parameter used: (0.5, 1)
+
+Best Position: ['1.0013764059', '0.4551095122']
+Best error: 0.0002069466
+-------------END EXPERIMENT--------------
+
+
+------------START EXPERIMENT-------------
+Function used: rosenbrock function
+PSO variant: vanilla
+Topology: four_n
+Parameter used: (2.05, 2.05)
+
+Best Position: ['2.4118379118', '0.6996069442']
+Best error: 0.0005326470
+-------------END EXPERIMENT--------------
+
+
+------------START EXPERIMENT-------------
+Function used: rosenbrock function
+PSO variant: inertia_weight
+Topology: fully_connected
+Parameter used: (1, 0.5)
+
+Best Position: ['1.0000000000', '1.0000000000']
+Best error: 0.0000000000
+-------------END EXPERIMENT--------------
+
+
+------------START EXPERIMENT-------------
+Function used: rosenbrock function
+PSO variant: inertia_weight
+Topology: fully_connected
+Parameter used: (0.5, 1)
+
+Best Position: ['1.0000000000', '1.0000000000']
+Best error: 0.0000000000
+-------------END EXPERIMENT--------------
+
+
+------------START EXPERIMENT-------------
+Function used: rosenbrock function
+PSO variant: inertia_weight
+Topology: fully_connected
+Parameter used: (2.05, 2.05)
+
+Best Position: ['1.0000009671', '1.0000019035']
+Best error: 0.0000000000
+-------------END EXPERIMENT--------------
+
+
+------------START EXPERIMENT-------------
+Function used: rosenbrock function
+PSO variant: inertia_weight
+Topology: ring
+Parameter used: (1, 0.5)
+
+Best Position: ['1.0000000805', '1.0000001597']
+Best error: 0.0000000000
+-------------END EXPERIMENT--------------
+
+
+------------START EXPERIMENT-------------
+Function used: rosenbrock function
+PSO variant: inertia_weight
+Topology: ring
+Parameter used: (0.5, 1)
+
+Best Position: ['0.9999981718', '0.9999966084']
+Best error: 0.0000000000
+-------------END EXPERIMENT--------------
+
+
+------------START EXPERIMENT-------------
+Function used: rosenbrock function
+PSO variant: inertia_weight
+Topology: ring
+Parameter used: (2.05, 2.05)
+
+Best Position: ['0.9716041116', '0.7535776012']
+Best error: 0.0001072682
+-------------END EXPERIMENT--------------
+
+
+------------START EXPERIMENT-------------
+Function used: rosenbrock function
+PSO variant: inertia_weight
+Topology: four_n
+Parameter used: (1, 0.5)
+
+Best Position: ['1.0189657164', '1.0383860442']
+Best error: 0.0003605992
+-------------END EXPERIMENT--------------
+
+
+------------START EXPERIMENT-------------
+Function used: rosenbrock function
+PSO variant: inertia_weight
+Topology: four_n
+Parameter used: (0.5, 1)
+
+Best Position: ['0.9862101678', '0.9726026419']
+Best error: 0.0001901656
+-------------END EXPERIMENT--------------
+
+
+------------START EXPERIMENT-------------
+Function used: rosenbrock function
+PSO variant: inertia_weight
+Topology: four_n
+Parameter used: (2.05, 2.05)
+
+Best Position: ['1.1442461209', '1.3092608874']
+Best error: 0.0208070901
+-------------END EXPERIMENT--------------
+
+
+------------START EXPERIMENT-------------
+Function used: rosenbrock function
+PSO variant: constriction_factor
+Topology: fully_connected
+Parameter used: (1, 0.5)
+
+Best Position: ['1.0000000000', '1.0000000000']
+Best error: 0.0000000000
+-------------END EXPERIMENT--------------
+
+
+------------START EXPERIMENT-------------
+Function used: rosenbrock function
+PSO variant: constriction_factor
+Topology: fully_connected
+Parameter used: (0.5, 1)
+
+Best Position: ['1.0000000000', '1.0000000000']
+Best error: 0.0000000000
+-------------END EXPERIMENT--------------
+
+
+------------START EXPERIMENT-------------
+Function used: rosenbrock function
+PSO variant: constriction_factor
+Topology: fully_connected
+Parameter used: (2.05, 2.05)
+
+Best Position: ['1.0000000000', '1.0000000000']
+Best error: 0.0000000000
+-------------END EXPERIMENT--------------
+
+
+------------START EXPERIMENT-------------
+Function used: rosenbrock function
+PSO variant: constriction_factor
+Topology: ring
+Parameter used: (1, 0.5)
+
+Best Position: ['0.9999998166', '0.9999991013']
+Best error: 0.0000000000
+-------------END EXPERIMENT--------------
+
+
+------------START EXPERIMENT-------------
+Function used: rosenbrock function
+PSO variant: constriction_factor
+Topology: ring
+Parameter used: (0.5, 1)
+
+Best Position: ['0.9999999906', '0.9999999705']
+Best error: 0.0000000000
+-------------END EXPERIMENT--------------
+
+
+------------START EXPERIMENT-------------
+Function used: rosenbrock function
+PSO variant: constriction_factor
+Topology: ring
+Parameter used: (2.05, 2.05)
+
+Best Position: ['0.9821753950', '0.9829056423']
+Best error: 0.0000009757
+-------------END EXPERIMENT--------------
+
+
+------------START EXPERIMENT-------------
+Function used: rosenbrock function
+PSO variant: constriction_factor
+Topology: four_n
+Parameter used: (1, 0.5)
+
+Best Position: ['0.9812695417', '0.9627945264']
+Best error: 0.0003517399
+-------------END EXPERIMENT--------------
+
+
+------------START EXPERIMENT-------------
+Function used: rosenbrock function
+PSO variant: constriction_factor
+Topology: four_n
+Parameter used: (0.5, 1)
+
+Best Position: ['1.0004792388', '1.0009610920']
+Best error: 0.0000002302
+-------------END EXPERIMENT--------------
+
+
+------------START EXPERIMENT-------------
+Function used: rosenbrock function
+PSO variant: constriction_factor
+Topology: four_n
+Parameter used: (2.05, 2.05)
+
+Best Position: ['0.9871693063', '0.9744382520']
+Best error: 0.0001650490
+-------------END EXPERIMENT--------------

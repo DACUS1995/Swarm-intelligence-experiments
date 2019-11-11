@@ -32,4 +32,4 @@ def plot_function(fn_name):
     plt.show()
 
 if __name__ == "__main__":
-    plot_function("rosenbrock")
+    plot_function("griewank")

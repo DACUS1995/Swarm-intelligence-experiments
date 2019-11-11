@@ -27,11 +27,6 @@ class Particle:
 			self.pos_best = self.position.copy()
 			self.err_best = self.err
 
-	pso_variants = [
-		"vanilla",
-		"inertia_weight",
-		"constriction_factor"
-	]
 
 	def update_velocity(self, pos_best_g, pso_variant):
 		w = 1       # constant inertia weight (how much to weigh the previous velocity)

@@ -75,9 +75,9 @@ def main():
 	]
 
 	functions = [
-		# "spherical",
-		# "rastrigin",
-		# "griewank",
+		"spherical",
+		"rastrigin",
+		"griewank",
 		"rosenbrock"
 	]
 
