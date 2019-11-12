@@ -1,5 +1,7 @@
 from pso import PSO
 import cost_functions
+import pandas as pd
+import numpy as np
 
 import sys
 
@@ -82,17 +84,43 @@ def main():
 	]
 
 
+	allResults = []
+
 	for function in functions:
 		for pso_variant in pso_variants:
 			for topology in topologies:
 				for param_pair in param_pairs:
-					run_experiment(
+					err, pos = run_experiment(
 						function, 
 						topology, 
 						param_pair, 
 						pso_variant
 					)
+
+					allResults.append(
+						[
+							function, 
+							topology, 
+							param_pair, 
+							pso_variant,
+							err,
+							np.array(pos)
+						]
+					)
 				
+	data = np.array(allResults)
+	dataset = pd.DataFrame({
+		'function': data[:, 0], 
+		'topology': data[:, 1],
+		'param_pair': data[:, 2],
+		'pso_variant': data[:, 3],
+		'value': data[:, 4],
+		'coord': data[:, 5]
+	})
+
+	dataset.to_excel("output.xlsx")
+
+	print(dataset)
 
 
 if __name__ == "__main__":
