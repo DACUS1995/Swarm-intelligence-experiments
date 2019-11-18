@@ -29,10 +29,16 @@ def run_simulation(population_size, iterations = 100, strategies = None, previou
 	start = len(previous_results)
 
 	for iteration in range(iterations):
-		strategy = random.sample(strategies, 1)[0]
-		previous_results.append(
-			min(strategy(previous_results), 100)
-		)
+		attendance = 0
+		
+		for irishman in range(population_size):
+			strategy = random.sample(strategies, 1)[0]
+			prediction = strategy(previous_results)
+
+			if prediction < 60:
+				attendance += 1
+		
+		previous_results.append(attendance)
 
 	end = len(previous_results)
 
