@@ -8,6 +8,9 @@ from cso import CSO
 NUM_RUNS = 30
 NUM_CATS = 50
 MR = 2 #percentage
+SMP = 5 #seeking memory pool
+SRD = 20 #percentage - seeking range of the selected dimension
+c1 = 2
 
 def run_experiment(function_name, num_iteration):
 	function = getattr(cost_functions, f"{function_name}_fn")

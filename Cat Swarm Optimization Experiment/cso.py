@@ -31,7 +31,7 @@ class CSO:
 
 			#apply behavior
 			for cat in cat_population:
-				cat.move()
+				cat.move(function)
 			
 			#change behavior
 			behavior_pattern = CSO.generate_behavior(num_cats, num_seeking)
