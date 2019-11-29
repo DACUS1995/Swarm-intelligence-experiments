@@ -8,7 +8,7 @@ class CSO:
 		pass
 
 	@staticmethod
-	def run(num_iterations, function, num_cats, MR):
+	def run(num_iterations, function, num_cats, MR, num_dimensions):
 		num_seeking = (int)((MR * num_cats) / 100)
 		best = sys.maxsize
 		cat_population = []
@@ -16,9 +16,9 @@ class CSO:
 		for idx in range(num_cats):
 			cat_population.append(Cat(
 				behavior = behavior_pattern[idx]
-				position = 
-				velocities = 
-				vmax = 
+				position = [random.uniform(-5, 5) for _ in range(num_dimensions)]
+				velocities = [random.uniform(-1, 1) for _ in range(num_dimensions)] 
+				vmax = 1
 			))
 
 

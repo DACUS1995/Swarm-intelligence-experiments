@@ -11,6 +11,7 @@ MR = 2 #percentage
 SMP = 5 #seeking memory pool
 SRD = 20 #percentage - seeking range of the selected dimension
 c1 = 2
+num_dimensions = 2
 
 def run_experiment(function_name, num_iteration):
 	function = getattr(cost_functions, f"{function_name}_fn")
@@ -19,7 +20,7 @@ def run_experiment(function_name, num_iteration):
 	avg = 0
 
 	for _ in range(NUM_RUNS):
-		results.append(CSO.run(num_iteration, function, num_cats=NUM_CATS, MR=MR))
+		results.append(CSO.run(num_iteration, function, num_cats=NUM_CATS, MR=MR, num_dimensions=num_dimensions))
 
 	return min(results), (float)(results / len(results))
 
