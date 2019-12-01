@@ -30,12 +30,12 @@ class CSO:
 				score, pos = cat.evaluate(function)
 				if score < best:
 					best = score
-					best_pos = pos
+					best_pos = pos.copy()
 
 			#apply behavior
 			for cat in cat_population:
 				cat.move(function, best_pos)
-			
+
 			#change behavior
 			behavior_pattern = CSO.generate_behavior(num_cats, num_seeking)
 			for idx, cat in enumerate(cat_population):
