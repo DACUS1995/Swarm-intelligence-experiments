@@ -1,4 +1,5 @@
 import numpy as np
+import pandas as pd
 import sys
 
 import cost_functions
@@ -50,11 +51,32 @@ def main():
 
 	max_iterations = [50, 100, 500]
 
+	all_results = []
+
 	for function in functions:
 		for num_iteration in max_iterations:
 			best, best_pos, avg = run_experiment(function, num_iteration)
 			print(f"Function={function}, Iterations={num_iteration} | best={format(best, '.10f')}, best_pos={best_pos}, avg={format(avg, '.10f')}")
 
+			all_results.append([
+				function,
+				num_iteration,
+				best,
+				best_pos,
+				avg
+			])
+	
+	data = np.array(all_results)
+	dataset = pd.DataFrame({
+		"function": data[:, 0],
+		"iterations": data[:, 1],
+		"best score": data[:, 2],
+		"best position": data[:, 3],
+		"avg": data[:, 4]
+	})
+
+	dataset.to_excel("results.xlsx")
+	print(dataset)
 
 if __name__ == "__main__":
 	main()
